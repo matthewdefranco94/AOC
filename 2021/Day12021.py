@@ -6,7 +6,7 @@ def testOutput():
 
 
 def importString():
-    with open(r'C:\Users\Matthew\Desktop\AOC\2021\day1input2021.txt', 'r') as file:
+    with open(r'C:\Users\Matthew\Desktop\AOC\day1input2021.txt', 'r') as file:
         depthsMeasurements = file.read().splitlines()
     return depthsMeasurements
 
